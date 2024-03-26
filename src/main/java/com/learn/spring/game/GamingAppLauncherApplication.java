@@ -1,11 +1,8 @@
-package com.learn.spring;
+package com.learn.spring.game;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-
-import com.learn.spring.game.GameRunner;
-import com.learn.spring.game.GamingConsole;
 
 @Configuration
 @ComponentScan("com.learn.spring.game")
