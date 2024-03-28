@@ -6,9 +6,6 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
-import com.learn.spring.game.GameRunner;
-import com.learn.spring.game.GamingConsole;
-
 @Configuration
 @ComponentScan
 public class SimpleSpringContextLauncherApplication {
