@@ -1,8 +1,10 @@
 package com.learn.spring.examples.a2.service;
 
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
-@Component
+//@Component
+@Repository
 public class MySQLDataService implements DataService {
 
 	@Override
