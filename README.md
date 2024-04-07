@@ -1,6 +1,6 @@
-This repository contains my practice and notes from sections 3 and 4 of the Udemy course "Master Spring Boot 3 & Spring Framework 6 with Java", created by Ranga Karanam, the founder of in28minutes.
+This repository contains my practice and notes from sections 3 and 4 of the Udemy course [Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners), created by Ranga Karanam, the founder of in28minutes.
 
-**Section 3: Using Spring Framework to Create and Manage Your Java Objects**
+# Section 3: Using Spring Framework to Create and Manage Your Java Objects
 
 Getting Spring Framework to Create and Manage Your Java Objects:
 * @Component annotation:
@@ -247,7 +247,7 @@ public class MySQLDataService implements DataService {
 }
 
 
-**Section 4: Exploring Spring Framework Advanced Features**
+# Section 4: Exploring Spring Framework Advanced Features
 
 Exploring Lazy and Eager Initialization of Spring Framework Beans
 * Default initialization for Spring Beans: Eager
